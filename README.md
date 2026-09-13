@@ -1,4 +1,4 @@
-im pursuer [ponytown-rewards](https://github.com/Ponytowns-rewards))
+im pursuer [ponytown-rewards](https://github.com/Ponytowns-rewards)
  
  <p align="center"
    
